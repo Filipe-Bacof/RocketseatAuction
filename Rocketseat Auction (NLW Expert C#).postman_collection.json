@@ -1,0 +1,98 @@
+{
+	"info": {
+		"_postman_id": "191e3348-2e9c-4825-9a47-2b83231959c1",
+		"name": "Rocketseat Auction (NLW Expert C#)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25133769"
+	},
+	"item": [
+		{
+			"name": "Auction",
+			"item": [
+				{
+					"name": "First Auction",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{URL}}/Auction",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"Auction"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "New Offer",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"price\": 123.31\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{URL}}/Offer/2",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"Offer",
+								"2"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "Y3Jpc3RpYW5vQGNyaXN0aWFuby5jb20=",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "URL",
+			"value": "https://localhost:7267",
+			"type": "string"
+		}
+	]
+}
