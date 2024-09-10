@@ -3,48 +3,8 @@
   "WorkspaceRootPath": "C:\\Workspace\\RocketseatAuction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|c:\\workspace\\rocketseatauction\\src\\rocketseatauction.api\\repositories\\rocketseatauctiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|solutionrelative:src\\rocketseatauction.api\\repositories\\rocketseatauctiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|c:\\workspace\\rocketseatauction\\src\\rocketseatauction.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|solutionrelative:src\\rocketseatauction.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|c:\\workspace\\rocketseatauction\\src\\rocketseatauction.api\\services\\loggeduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|solutionrelative:src\\rocketseatauction.api\\services\\loggeduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|c:\\workspace\\rocketseatauction\\src\\rocketseatauction.api\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|solutionrelative:src\\rocketseatauction.api\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|c:\\workspace\\rocketseatauction\\src\\rocketseatauction.api\\filters\\authenticationuserattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|solutionrelative:src\\rocketseatauction.api\\filters\\authenticationuserattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|c:\\workspace\\rocketseatauction\\src\\rocketseatauction.api\\repositories\\dataaccess\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|solutionrelative:src\\rocketseatauction.api\\repositories\\dataaccess\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|c:\\workspace\\rocketseatauction\\src\\rocketseatauction.api\\repositories\\dataaccess\\offerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|solutionrelative:src\\rocketseatauction.api\\repositories\\dataaccess\\offerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|c:\\workspace\\rocketseatauction\\src\\rocketseatauction.api\\usecases\\offers\\createoffer\\createofferusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|solutionrelative:src\\rocketseatauction.api\\usecases\\offers\\createoffer\\createofferusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|c:\\workspace\\rocketseatauction\\src\\rocketseatauction.api\\contracts\\iofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|solutionrelative:src\\rocketseatauction.api\\contracts\\iofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|c:\\workspace\\rocketseatauction\\src\\rocketseatauction.api\\contracts\\iauctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|solutionrelative:src\\rocketseatauction.api\\contracts\\iauctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|c:\\workspace\\rocketseatauction\\src\\rocketseatauction.api\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|solutionrelative:src\\rocketseatauction.api\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{532B2F4C-69E6-49E8-A71B-84B72C0F747B}|tests\\UseCases.Test\\UseCases.Test.csproj|c:\\workspace\\rocketseatauction\\tests\\usecases.test\\auctions\\getcurrent\\getcurrentauctionusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532B2F4C-69E6-49E8-A71B-84B72C0F747B}|tests\\UseCases.Test\\UseCases.Test.csproj|solutionrelative:tests\\usecases.test\\auctions\\getcurrent\\getcurrentauctionusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53871A75-AD11-41AF-A428-040EBA778011}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|c:\\workspace\\rocketseatauction\\src\\rocketseatauction.api\\usecases\\auctions\\getcurrent\\getcurrentauctionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,157 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RocketseatAuctionDbContext.cs",
-              "DocumentMoniker": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Repositories\\RocketseatAuctionDbContext.cs",
-              "RelativeDocumentMoniker": "src\\RocketseatAuction.API\\Repositories\\RocketseatAuctionDbContext.cs",
-              "ToolTip": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Repositories\\RocketseatAuctionDbContext.cs",
-              "RelativeToolTip": "src\\RocketseatAuction.API\\Repositories\\RocketseatAuctionDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
+              "Title": "GetCurrentAuctionUseCaseTest.cs",
+              "DocumentMoniker": "C:\\Workspace\\RocketseatAuction\\tests\\UseCases.Test\\Auctions\\GetCurrent\\GetCurrentAuctionUseCaseTest.cs",
+              "RelativeDocumentMoniker": "tests\\UseCases.Test\\Auctions\\GetCurrent\\GetCurrentAuctionUseCaseTest.cs",
+              "ToolTip": "C:\\Workspace\\RocketseatAuction\\tests\\UseCases.Test\\Auctions\\GetCurrent\\GetCurrentAuctionUseCaseTest.cs",
+              "RelativeToolTip": "tests\\UseCases.Test\\Auctions\\GetCurrent\\GetCurrentAuctionUseCaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T23:33:19.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoggedUser.cs",
-              "DocumentMoniker": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Services\\LoggedUser.cs",
-              "RelativeDocumentMoniker": "src\\RocketseatAuction.API\\Services\\LoggedUser.cs",
-              "ToolTip": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Services\\LoggedUser.cs",
-              "RelativeToolTip": "src\\RocketseatAuction.API\\Services\\LoggedUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T23:39:03.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthenticationUserAttribute.cs",
-              "DocumentMoniker": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Filters\\AuthenticationUserAttribute.cs",
-              "RelativeDocumentMoniker": "src\\RocketseatAuction.API\\Filters\\AuthenticationUserAttribute.cs",
-              "ToolTip": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Filters\\AuthenticationUserAttribute.cs",
-              "RelativeToolTip": "src\\RocketseatAuction.API\\Filters\\AuthenticationUserAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T23:36:21.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Contracts\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "src\\RocketseatAuction.API\\Contracts\\IUserRepository.cs",
-              "ToolTip": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Contracts\\IUserRepository.cs",
-              "RelativeToolTip": "src\\RocketseatAuction.API\\Contracts\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T23:34:47.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IOfferRepository.cs",
-              "DocumentMoniker": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Contracts\\IOfferRepository.cs",
-              "RelativeDocumentMoniker": "src\\RocketseatAuction.API\\Contracts\\IOfferRepository.cs",
-              "ToolTip": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Contracts\\IOfferRepository.cs",
-              "RelativeToolTip": "src\\RocketseatAuction.API\\Contracts\\IOfferRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T23:26:59.061Z",
+              "WhenOpened": "2024-09-10T00:23:46.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Program.cs",
-              "RelativeDocumentMoniker": "src\\RocketseatAuction.API\\Program.cs",
-              "ToolTip": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Program.cs",
-              "RelativeToolTip": "src\\RocketseatAuction.API\\Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAADkAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T23:22:24.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OfferRepository.cs",
-              "DocumentMoniker": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Repositories\\DataAccess\\OfferRepository.cs",
-              "RelativeDocumentMoniker": "src\\RocketseatAuction.API\\Repositories\\DataAccess\\OfferRepository.cs",
-              "ToolTip": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Repositories\\DataAccess\\OfferRepository.cs",
-              "RelativeToolTip": "src\\RocketseatAuction.API\\Repositories\\DataAccess\\OfferRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T23:26:41.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateOfferUseCase.cs",
-              "DocumentMoniker": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\UseCases\\Offers\\CreateOffer\\CreateOfferUseCase.cs",
-              "RelativeDocumentMoniker": "src\\RocketseatAuction.API\\UseCases\\Offers\\CreateOffer\\CreateOfferUseCase.cs",
-              "ToolTip": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\UseCases\\Offers\\CreateOffer\\CreateOfferUseCase.cs",
-              "RelativeToolTip": "src\\RocketseatAuction.API\\UseCases\\Offers\\CreateOffer\\CreateOfferUseCase.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T23:26:02.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuctionRepository.cs",
-              "DocumentMoniker": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Repositories\\DataAccess\\AuctionRepository.cs",
-              "RelativeDocumentMoniker": "src\\RocketseatAuction.API\\Repositories\\DataAccess\\AuctionRepository.cs",
-              "ToolTip": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Repositories\\DataAccess\\AuctionRepository.cs",
-              "RelativeToolTip": "src\\RocketseatAuction.API\\Repositories\\DataAccess\\AuctionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T23:12:01.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IAuctionRepository.cs",
-              "DocumentMoniker": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Contracts\\IAuctionRepository.cs",
-              "RelativeDocumentMoniker": "src\\RocketseatAuction.API\\Contracts\\IAuctionRepository.cs",
-              "ToolTip": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Contracts\\IAuctionRepository.cs",
-              "RelativeToolTip": "src\\RocketseatAuction.API\\Contracts\\IAuctionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T23:18:26.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuctionController.cs",
-              "DocumentMoniker": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Controllers\\AuctionController.cs",
-              "RelativeDocumentMoniker": "src\\RocketseatAuction.API\\Controllers\\AuctionController.cs",
-              "ToolTip": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\Controllers\\AuctionController.cs",
-              "RelativeToolTip": "src\\RocketseatAuction.API\\Controllers\\AuctionController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T23:22:12.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "GetCurrentAuctionUseCase.cs",
               "DocumentMoniker": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\UseCases\\Auctions\\GetCurrent\\GetCurrentAuctionUseCase.cs",
               "RelativeDocumentMoniker": "src\\RocketseatAuction.API\\UseCases\\Auctions\\GetCurrent\\GetCurrentAuctionUseCase.cs",
               "ToolTip": "C:\\Workspace\\RocketseatAuction\\src\\RocketseatAuction.API\\UseCases\\Auctions\\GetCurrent\\GetCurrentAuctionUseCase.cs",
               "RelativeToolTip": "src\\RocketseatAuction.API\\UseCases\\Auctions\\GetCurrent\\GetCurrentAuctionUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T23:15:36.581Z",
+              "WhenOpened": "2024-09-10T00:21:16.347Z",
               "EditorCaption": ""
             }
           ]
